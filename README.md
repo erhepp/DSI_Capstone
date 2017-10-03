@@ -28,7 +28,7 @@ Clicking this link will display a page with additional description links to the 
 
 Below are two presentations I prepared for use when explaining this project, one for audiences not experienced in data science, and a second for technical audiences:
 
-Non-Technical -> https://github.com/erhepp/DSI_Capstone/blob/master/Capstone_NonTechnicalFinal.pdf
+Non-Technical -> https://github.com/erhepp/DSI_Capstone/blob/master/Capstone_NonTechnicalFinal.pdf  
 Technical -> https://github.com/erhepp/DSI_Capstone/blob/master/Capstone_TechnicalFinal.pdf
 
 </br>
